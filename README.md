@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Web Development on Django
+- 🔭 I’m currently working on Machine Learning
 - 📫 You can reach me linkedin: https://www.linkedin.com/in/a-s-l-manasa-ba8b371bb/
 - I am practicing Competetive Coding
 - 💬 Ask me about Database Management
