@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 </tr>
 </thead>
 </table>
-<img align="left" alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASLManasa&exclude_repo=github-readme-stats,ASLManasa.github.io" />
+<img align="center" alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASLManasa&exclude_repo=github-readme-stats,ASLManasa.github.io" />
 
 
 
