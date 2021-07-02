@@ -29,9 +29,6 @@ Here are some ideas to get you started:
 <table align="center">
 <thead>
 <tr>
-<th style="text-align:center"><img src="https://komarev.com/ghpvc/?username=ASLManasa"></th>
-</tr>
-<tr>
 <th style="text-align:center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ASLManasa&theme=tokyonight"></th>
 </tr>
 <tr>
