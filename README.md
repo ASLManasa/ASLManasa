@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <img align="left" alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASLManasa&exclude_repo=github-readme-stats,ASLManasa.github.io" />
 <br>
 <br>
-<a href=https://www.linkedin.com/in/a-s-l-manasa-ba8b371bb/><img align="center" linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<center><a href=https://www.linkedin.com/in/a-s-l-manasa-ba8b371bb/><img align="center" linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></center>
 
 
 
