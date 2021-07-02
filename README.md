@@ -1,4 +1,4 @@
-### Hi there 👋
+<!---### Hi there 👋
 - 🔭 I’m currently working on Machine Learning
 - 📫 You can reach me linkedin: https://www.linkedin.com/in/a-s-l-manasa-ba8b371bb/
 - I am practicing Competetive Coding
@@ -12,7 +12,7 @@
 
 
 
-<!--
+
 **ASLManasa/ASLManasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -26,3 +26,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<table align="center">
+<thead>
+<tr>
+<th style="text-align:center"><img src="https://komarev.com/ghpvc/?username=ASLManasa"></th>
+</tr>
+<tr>
+<th style="text-align:center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ASLManasa&theme=tokyonight"></th>
+</tr>
+<tr>
+<th style="text-align:center"><img src="https://github-readme-stats.vercel.app/api?username=ASLManasa"></th>
+</tr>
+</thead>
+</table>
+
+
+</tbody>
+</table>
