@@ -33,10 +33,8 @@ Here are some ideas to get you started:
 </tr>
 </thead>
 </table>
-<th style="text-align:center"><img src="https://github-readme-stats.vercel.app/api?username=ASLManasa"></th>
-<img align="right" alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASLManasa&exclude_repo=github-readme-stats,ASLManasa.github.io" />
-<a align="right" href=https://www.linkedin.com/in/a-s-l-manasa-ba8b371bb/><img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
+<img align="left" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=ASLManasa&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+<img align="left" alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASLManasa&exclude_repo=github-readme-stats,ASLManasa.github.io" />
 
 
 
