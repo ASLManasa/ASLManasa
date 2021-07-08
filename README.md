@@ -25,8 +25,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- >
-<a href= https://www.linkedin.com/in/a-s-l-manasa-ba8b371bb/><img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
+- />
 
 <table align="center">
 <thead>
