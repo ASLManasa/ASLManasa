@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 📫 You can reach me linkedin: https://www.linkedin.com/in/a-s-l-manasa-ba8b371bb/
 <table align="center">
 <thead>
 <tr>
