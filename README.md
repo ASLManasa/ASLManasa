@@ -11,7 +11,7 @@
 <img align="left" alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASLManasa&exclude_repo=github-readme-stats,ASLManasa.github.io" />
 <br>
 <br>
-<h3 align="left">Connect with me:</h3>
+<h3 align="right">Connect with me:</h3>
 <br>
 <br>
 <br>
