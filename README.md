@@ -20,10 +20,11 @@
 <img align="left" alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASLManasa&exclude_repo=github-readme-stats,ASLManasa.github.io" />
 
 
-<p>Here are few technologies which I have hands-on experience: </p>
 
 <table>
     <tr>
+        <p>Here are few technologies which I have hands-on experience: </p>
+
       <td>
         <div>
           <img src="https://img.icons8.com/color/128/000000/javascript.png" alt="javascript" width="50" height="50" />
