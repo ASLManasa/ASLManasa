@@ -5,9 +5,10 @@
 <a href="https://www.linkedin.com/in/a-s-l-manasa-ba8b371bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/6253936f99716cd30c07055d5d10e9332af37171/src/images/icons/Social/linked-in-alt.svg" alt="its-kumar" height="30" width="40" /></a>  </p> -->
 - 😄 You can connect me with =><a href = "https://www.linkedin.com/in/a-s-l-manasa-ba8b371bb/" target="_blank">Linkedin</a>
 - ✨ Chech more about me.. => <a href = "https://aslmanasa.github.io/" target="_blank">Portfolio</a>
+-  ![](https://komarev.com/ghpvc/?username=ASLManasa)
 
 
-![](https://komarev.com/ghpvc/?username=ASLManasa)
+
 <table align="center">
 <thead>
 <tr>
