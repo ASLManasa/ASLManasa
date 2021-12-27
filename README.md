@@ -7,6 +7,7 @@
 - ✨ Chech more about me.. => <a href = "https://aslmanasa.github.io/" target="_blank">Portfolio</a>
 
 
+![](https://komarev.com/ghpvc/?username=ASLManasa)
 <table align="center">
 <thead>
 <tr>
