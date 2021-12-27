@@ -9,22 +9,22 @@
 
 
 
-<table align="center">
-<thead>
-<tr>
-<th style="text-align:center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ASLManasa&theme=tokyonight"></th>
-</tr>
-</thead>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=ASLManasa&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=ASLManasa&theme=dark&hide_border=true" />
+    </td>
+  </tr>
 </table>
-<img align="left" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=ASLManasa&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
-<img align="left" alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASLManasa&exclude_repo=github-readme-stats,ASLManasa.github.io" />
+
 
 
 
 <table>
     <tr>
-        <p>Here are few technologies which I have hands-on experience: </p>
-
       <td>
         <div>
           <img src="https://img.icons8.com/color/128/000000/javascript.png" alt="javascript" width="50" height="50" />
