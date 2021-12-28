@@ -45,14 +45,14 @@
     </td>
   </tr>
 </table>
-<table>
-  <tr>
-    <td>
-[![Manasa's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ASLManasa&theme=xcode)](https://github.com/ASLManasa)
-    </td>
-  </tr>
-  </table>
 
+<p align = 'center'> <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
+ 
+ 
+[![ASLManasa's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ASLManasa&theme=xcode)](https://github.com/ASLManasa)
+
+
+<div align = "center">
 
 
 
