@@ -45,6 +45,13 @@
     </td>
   </tr>
 </table>
+<table>
+  <tr>
+    <td>
+[![Manasa's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ASLManasa&theme=xcode)](https://github.com/ASLManasa)
+    </td>
+  </tr>
+  </table>
 
 
 
