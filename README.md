@@ -3,10 +3,10 @@
 <hr>
 <p align="left">
 <a href="https://www.linkedin.com/in/a-s-l-manasa-ba8b371bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/6253936f99716cd30c07055d5d10e9332af37171/src/images/icons/Social/linked-in-alt.svg" alt="its-kumar" height="30" width="40" /></a>  </p> -->
-- Currently a member of Techincal team at GSSOC'22.
+- Working on Frontend Tech(React) ,ML and Nlp.
 - Cleared intial appplication round of outreachy open source.
-- Experience as a mentor at SWOC 2.0 and  Senior Lead- Technology and Innovation - PAHELI Education.
-- Participated in GWOC, GSSOC 2021 , HactoberFest 2021.
+- Experience as a mentor at SWOC 2.0 and  Senior Lead- Technology and Innovation - PAHELI Education,Technical team gssoc'22.
+- Participated in GWOC, GSSOC 2021 , HactoberFest 2021,Open Code 22.
 - You can reach out to me at : aslmanasa3@gmail.com
 - 😄 You can connect me with =><a href = "https://www.linkedin.com/in/a-s-l-manasa-ba8b371bb/" target="_blank">Linkedin</a>
 - ✨ Chech more about me.. => <a href = "https://aslmanasa.github.io/" target="_blank">Portfolio</a>
