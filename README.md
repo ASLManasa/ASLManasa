@@ -3,7 +3,7 @@
 <hr>
 <p align="left">
 <a href="https://www.linkedin.com/in/a-s-l-manasa-ba8b371bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/6253936f99716cd30c07055d5d10e9332af37171/src/images/icons/Social/linked-in-alt.svg" alt="its-kumar" height="30" width="40" /></a>  </p> -->
-- upcoming MLH fellow (july '22 prep batch)
+-  MLH fellow (july '22 prep batch)
 - runner up JPMC Code for good 2022.
 - Working on Frontend Tech(React) ,ML and Nlp.
 - Cleared intial appplication round of outreachy open source.
